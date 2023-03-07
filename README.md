@@ -12,8 +12,8 @@ data science capabilities:
 ## Contact information
 
 -   This notebook was last updated on: 2023-03-07
--   Author:
--   Connect on LinkedIn:
+-   Author: Kiril Boyanov (kirilboyanov [at] gmail.com)
+-   Connect on LinkedIn: https://www.linkedin.com/in/kirilboyanov/
 
 ## Data collection and cleaning
 
